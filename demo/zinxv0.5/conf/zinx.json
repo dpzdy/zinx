@@ -1,0 +1,7 @@
+{
+  "Name":           "zinx v0.5 dempServerApp",
+  "Version":        "V0.5",
+  "TcpPort":        8999,
+  "Host":           "127.0.0.1",
+  "MaxConn":        3
+}
